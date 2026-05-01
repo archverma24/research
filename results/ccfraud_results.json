@@ -79,8 +79,8 @@
     "reduction_pct": 67.5
   },
   "infrastructure": {
-    "cpu_ms_per_txn_edge": 1.6058,
-    "cpu_ms_per_txn_cloud": 1.5927,
+    "cpu_ms_per_txn_edge": 1.5985,
+    "cpu_ms_per_txn_cloud": 1.5774,
     "peak_memory_bytes_edge": 42336,
     "peak_memory_bytes_cloud": 47736,
     "model_storage_bytes_edge": 1456,

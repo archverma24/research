@@ -16,5 +16,8 @@ node_modules/
 # Dataset (large; place creditcard.csv locally or use Kaggle)
 creditcard.csv
 
+# Regenerate with: python3 viz_ccfraud.py
+figures_ccfraud/
+
 # Local experiment cache
 *.pyc
