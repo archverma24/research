@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.env
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+
+# Node (if re-added)
+node_modules/
+
+# Dataset (large; place creditcard.csv locally or use Kaggle)
+creditcard.csv
+
+# Local experiment cache
+*.pyc
